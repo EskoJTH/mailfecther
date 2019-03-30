@@ -20,7 +20,7 @@ Battery level: 4/5+++
 Used with this kind of bee hive scale https://smsvaga.com/index.php/en/
 
 
-Notes fot future:
+```Notes fot future:```
 Don't use googles api. The messages are probably much easier to get automatically with some cli tool than trying to use this thing. 
 
 Why does this exist?
