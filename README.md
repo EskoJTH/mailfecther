@@ -33,7 +33,7 @@ You might be able to use this as an example on how to get google api to work wit
 
 ## Installation
 
-in the beginning of the core.js there are a couple of fields where required atuhentication related information file paths have to be added and you need to get your own google keys (account + client secret and so on).
+In the beginning of the core.js there are a couple of fields where required atuhentication related information file paths have to be added and you need to get your own google keys (account + client secret and so on).
 
 install java clojure and lein
 
