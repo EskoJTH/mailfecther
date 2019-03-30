@@ -35,6 +35,9 @@ You might be able to use this as an example on how to get google api to work wit
 
 in the beginning of the core.js there are a couple of fields where required atuhentication related information file paths have to be added.
 
-lein deps
+install java clojure and lein
+
+Then inside the project these should work.
 lein install
+lein deps
 lein run
